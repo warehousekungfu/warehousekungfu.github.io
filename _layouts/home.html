@@ -1,0 +1,17 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.heading -%}
+    <h1 class="page-heading">{{ page.heading }}</h1>
+  {%- endif -%}
+
+  {%- if page.lineage -%}
+    <h2 class="page-subheading">{{ page.lineage }}</h2>
+  {%- endif -%}
+
+  <img src="assets/dummy.png" style="width:100%; margin: 30px 0px" />
+  {{ content }}
+
+</div>

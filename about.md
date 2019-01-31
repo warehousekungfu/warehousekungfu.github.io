@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Guy Cofie has studied Wing Chun since 1984 with Nino Bernardo of The Basement. He is authorised to teach the complete system by Nino Bernardo and counts himself lucky to be one of the people to have completed the system under him.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+He opened his gym, The Warehouse, in 2004, one of very few full time Wing Chun schools in the UK.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Guy has also been a fully qualified fitness instructor since 1989 and completed a BSc hons, Sports Science, Fitness and Health, in 2003. Along with martial arts sessions he also conducts several Functional Fitness training sessions each week both group and private.
