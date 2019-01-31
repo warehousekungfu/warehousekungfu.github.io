@@ -1,2 +1,4 @@
 name: Warehouse Wing Chun
 markdown: kramdown
+
+theme: jekyll-theme-cayman
